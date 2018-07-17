@@ -1,4 +1,4 @@
-# huge-rsagen
+# huge-genrsa
 
 でっかいRSA鍵生成ツール作るよ！
 
